@@ -20,5 +20,7 @@
   <a href="mailto:eduarda.santos.andrade@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
  
   ![Snake animation](https://github.com/Eduarda-Santos/Eduarda-Santos/blob/output/github-contribution-grid-snake.svg)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Eduarda-Santos=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
